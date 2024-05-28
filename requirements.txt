@@ -10,3 +10,6 @@ torchaudio
 -U scikit-learn
 tensorflow-macos
 tensorflow-metal
+matplotlib
+plotly
+aiohttp
