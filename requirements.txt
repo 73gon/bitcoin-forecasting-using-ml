@@ -1,0 +1,12 @@
+tensorflow
+pandas
+numpy
+tweepy
+transformers
+praw
+torch
+torchvision 
+torchaudio
+-U scikit-learn
+tensorflow-macos
+tensorflow-metal
