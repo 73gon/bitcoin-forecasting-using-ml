@@ -7,9 +7,7 @@ praw
 torch
 torchvision 
 torchaudio
--U scikit-learn
-tensorflow-macos
-tensorflow-metal
+scikit-learn
 matplotlib
 plotly
 aiohttp
