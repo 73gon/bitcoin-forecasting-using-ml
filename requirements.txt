@@ -4,6 +4,7 @@ numpy
 tweepy
 transformers
 praw
+asyncpraw
 torch
 torchvision 
 torchaudio
@@ -11,3 +12,4 @@ scikit-learn
 matplotlib
 plotly
 aiohttp
+tf-keras
