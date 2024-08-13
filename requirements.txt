@@ -13,3 +13,7 @@ matplotlib
 plotly
 aiohttp
 tf-keras
+keras-tuner
+alpha_vantage
+yfinance
+textblob
