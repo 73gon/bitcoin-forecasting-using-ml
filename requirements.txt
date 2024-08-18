@@ -1,19 +1,17 @@
-tensorflow<2.11
-pandas
 numpy
-tweepy
-transformers
-praw
-asyncpraw
-torch
-torchvision 
-torchaudio
-scikit-learn
 matplotlib
-plotly
-aiohttp
-tf-keras
-keras-tuner
-alpha_vantage
+pandas
+
 yfinance
+alpha_vantage
+
+praw
+scikit-learn
 textblob
+transformers
+ipywidgets
+
+torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+"tensorflow<2.11" 
